@@ -6,7 +6,7 @@ The research paper presents an enhanced music recommendation system leveraging G
 Use of Graph Neural Networks (GNNs):
 
 GNNs are applied to model relationships between users and music tracks, enhancing recommendation accuracy.
-This overcomes the limitations of collaborative filtering and content-based filtering by incorporating graph structures of user-item interactions.
+This overcomes the limitations of collaborative filtering and content-based filtering by incorporating graph structures of user-item interactions
 Feature Extraction Techniques:
 
 Mel-Frequency Cepstral Coefficients (MFCCs): Capture audio timbre features.
@@ -14,7 +14,7 @@ OpenL3 Embeddings: Extract deep feature representations from music tracks.
 Additional Features: Spectral contrast, pitch, energy levels, etc., improve song representation.
 Clustering for Scalability:
 
-Gaussian Mixture Models (GMMs): Used to group similar songs based on extracted features, enhancing scalability and diversity in recommendations.
+Gaussian Mixture Models (GMMs): Used to group similar songs based on extracted features, enhancing scalability and diversity in recommendations
 K-Means & t-SNE: Dimensionality reduction (t-SNE) and clustering (K-Means) improve data organization before applying GNNs.
 Dataset and Methodology:
 
